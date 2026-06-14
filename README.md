@@ -11,8 +11,9 @@
 ```bash
 cd backend
 npm install
+cd backend
 npm run dev
-
-```bash
+cd frontend
+npm run dev
 cd backend
 node createAdmin.js
