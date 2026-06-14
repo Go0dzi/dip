@@ -17,3 +17,14 @@ cd frontend
 npm run dev
 cd backend
 node createAdmin.js
+```
+
+```bash
+cd backend
+npm install
+cd backend
+npm run dev
+cd frontend
+npm run dev
+cd backend
+node createAdmin.js
