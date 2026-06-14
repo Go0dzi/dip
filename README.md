@@ -12,3 +12,7 @@
 cd backend
 npm install
 npm run dev
+
+```bash
+cd backend
+node createAdmin.js
